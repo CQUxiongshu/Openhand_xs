@@ -1,0 +1,19 @@
+{
+  "name": "openhand-xs",
+  "version": "1.0.0",
+  "description": "OpenHand - 智能助手平台",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -p 12000 --cors -a 0.0.0.0 -o"
+  },
+  "keywords": [
+    "openhand",
+    "ai",
+    "assistant"
+  ],
+  "author": "OpenHand Team",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
